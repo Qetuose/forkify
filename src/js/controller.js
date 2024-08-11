@@ -111,5 +111,3 @@ const clearBookmarks = function () {
 };
 
 // clearBookmarks();
-
-console.log('s');
